@@ -3,7 +3,7 @@ body {
     font-weight: bold;
     text-align: center;
     background-image: url("ffn.jpg");
-    background-size: 100vw 100%;
+    background-size: 100vw 100vh;
     background-repeat: no-repeat;
     background-position: center;
 }
